@@ -1,4 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": { "layer0": "backrooms_tape:item/directional_caution_tape" }
-}
