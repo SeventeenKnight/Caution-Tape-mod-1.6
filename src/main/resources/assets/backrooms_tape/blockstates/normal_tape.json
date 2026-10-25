@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    { "apply": { "model": "backrooms_tape:block/normal_tape_dot" } },
+    { "when": { "north": "true" }, "apply": { "model": "backrooms_tape:block/normal_tape_n" } },
+    { "when": { "east": "true" }, "apply": { "model": "backrooms_tape:block/normal_tape_e" } },
+    { "when": { "south": "true" }, "apply": { "model": "backrooms_tape:block/normal_tape_s" } },
+    { "when": { "west": "true" }, "apply": { "model": "backrooms_tape:block/normal_tape_w" } }
+  ]
+}

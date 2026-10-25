@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    { "apply": { "model": "backrooms_tape:block/glow_caution_tape_dot" } },
+    { "when": { "north": "true" }, "apply": { "model": "backrooms_tape:block/glow_caution_tape_n" } },
+    { "when": { "east": "true" }, "apply": { "model": "backrooms_tape:block/glow_caution_tape_e" } },
+    { "when": { "south": "true" }, "apply": { "model": "backrooms_tape:block/glow_caution_tape_s" } },
+    { "when": { "west": "true" }, "apply": { "model": "backrooms_tape:block/glow_caution_tape_w" } }
+  ]
+}

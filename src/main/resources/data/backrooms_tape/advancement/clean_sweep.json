@@ -1,0 +1,15 @@
+{
+  "parent": "backrooms_tape:root",
+  "display": {
+    "icon": { "id": "minecraft:water_bucket" },
+    "title": { "translate": "advancements.backrooms_tape.clean_sweep.title" },
+    "description": { "translate": "advancements.backrooms_tape.clean_sweep.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "washed_tape": { "trigger": "minecraft:impossible" }
+  }
+}

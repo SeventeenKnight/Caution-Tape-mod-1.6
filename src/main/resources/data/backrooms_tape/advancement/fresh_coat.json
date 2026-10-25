@@ -1,0 +1,15 @@
+{
+  "parent": "backrooms_tape:root",
+  "display": {
+    "icon": { "id": "backrooms_tape:caution_tape" },
+    "title": { "translate": "advancements.backrooms_tape.fresh_coat.title" },
+    "description": { "translate": "advancements.backrooms_tape.fresh_coat.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dyed_tape": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "backrooms_tape:root",
+  "display": {
+    "icon": { "id": "backrooms_tape:directional_caution_tape" },
+    "title": { "translate": "advancements.backrooms_tape.follow_the_arrows.title" },
+    "description": { "translate": "advancements.backrooms_tape.follow_the_arrows.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "placed_directional_tape": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "backrooms_tape:directional_caution_tape"
+      }
+    }
+  }
+}

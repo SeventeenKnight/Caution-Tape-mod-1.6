@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["SSS", "YKY", "SSS"],
+  "key": {
+    "S": { "item": "minecraft:string" },
+    "Y": { "item": "minecraft:yellow_dye" },
+    "K": { "item": "minecraft:black_dye" }
+  },
+  "result": { "id": "backrooms_tape:caution_tape", "count": 16 }
+}

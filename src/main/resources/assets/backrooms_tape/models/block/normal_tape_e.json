@@ -1,0 +1,15 @@
+{
+  "textures": {
+    "tape": "backrooms_tape:block/normal_tape_dyeable",
+    "particle": "backrooms_tape:block/normal_tape"
+  },
+  "elements": [
+    {
+      "from": [11, 0.25, 5],
+      "to": [16, 0.25, 11],
+      "faces": {
+        "up": { "uv": [11, 5, 16, 11], "texture": "#tape", "tintindex": 0 }
+      }
+    }
+  ]
+}
