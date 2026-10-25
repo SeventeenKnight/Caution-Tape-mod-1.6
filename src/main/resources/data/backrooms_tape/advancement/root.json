@@ -1,0 +1,15 @@
+{
+  "display": {
+    "icon": { "id": "backrooms_tape:caution_tape" },
+    "title": { "translate": "advancements.backrooms_tape.root.title" },
+    "description": { "translate": "advancements.backrooms_tape.root.description" },
+    "background": "backrooms_tape:textures/gui/advancements/backgrounds/caution_tape.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "placed_tape": { "trigger": "minecraft:impossible" }
+  }
+}

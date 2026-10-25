@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "backrooms_tape:block/directional_caution_tape_n" },
+    "facing=east": { "model": "backrooms_tape:block/directional_caution_tape_e" },
+    "facing=south": { "model": "backrooms_tape:block/directional_caution_tape_s" },
+    "facing=west": { "model": "backrooms_tape:block/directional_caution_tape_w" }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "backrooms_tape:root",
+  "display": {
+    "icon": { "id": "backrooms_tape:glow_caution_tape" },
+    "title": { "translate": "advancements.backrooms_tape.light_the_way.title" },
+    "description": { "translate": "advancements.backrooms_tape.light_the_way.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "placed_glow_tape": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "backrooms_tape:glow_caution_tape"
+      }
+    }
+  }
+}

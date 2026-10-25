@@ -1,0 +1,20 @@
+{
+  "block.backrooms_tape.caution_tape": "Caution Tape",
+  "block.backrooms_tape.normal_tape": "Normal Tape",
+  "block.backrooms_tape.directional_caution_tape": "Directional Caution Tape",
+  "block.backrooms_tape.glow_caution_tape": "Glow Caution Tape",
+  "block.backrooms_tape.tripwire_caution_tape": "Tripwire Caution Tape",
+  "advancements.backrooms_tape.fresh_coat.title": "Fresh Coat",
+  "advancements.backrooms_tape.fresh_coat.description": "Recolor a piece of caution tape",
+  "advancements.backrooms_tape.follow_the_arrows.title": "Follow the Arrows",
+  "advancements.backrooms_tape.follow_the_arrows.description": "Place directional caution tape",
+  "advancements.backrooms_tape.clean_sweep.title": "Clean Sweep",
+  "advancements.backrooms_tape.clean_sweep.description": "Wash dye off tape with a water bottle",
+  "advancements.backrooms_tape.light_the_way.title": "Light the Way",
+  "advancements.backrooms_tape.light_the_way.description": "Place glow caution tape",
+  "advancements.backrooms_tape.caught_in_the_tape.title": "Caught in the Tape",
+  "advancements.backrooms_tape.caught_in_the_tape.description": "Step on a tripwire caution tape",
+  "advancements.backrooms_tape.root.title": "Backrooms Tape",
+  "advancements.backrooms_tape.root.description": "Mark the way. Watch your step.",
+  "itemGroup.backrooms_tape": "Backrooms Caution Tape"
+}

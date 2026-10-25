@@ -1,0 +1,23 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "backrooms_tape"
+version = "1.0.0"
+displayName = "Backrooms Caution Tape"
+description = '''A Backrooms-themed tape mod with dyeable caution tape, directional arrows, crafting recipes, and connected placement.'''
+
+[[dependencies.backrooms_tape]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.backrooms_tape]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

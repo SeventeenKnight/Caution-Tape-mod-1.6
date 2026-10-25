@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "backrooms_tape:item/glow_caution_tape" }
+}

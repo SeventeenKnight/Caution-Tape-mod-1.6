@@ -1,0 +1,15 @@
+{
+  "textures": {
+    "tape": "backrooms_tape:block/caution_tape_dyeable",
+    "particle": "backrooms_tape:block/caution_tape"
+  },
+  "elements": [
+    {
+      "from": [5, 0.25, 0],
+      "to": [11, 0.25, 5],
+      "faces": {
+        "up": { "uv": [5, 0, 11, 5], "texture": "#tape", "tintindex": 0 }
+      }
+    }
+  ]
+}

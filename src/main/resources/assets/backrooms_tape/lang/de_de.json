@@ -1,0 +1,19 @@
+{
+  "block.backrooms_tape.caution_tape": "Absperrband",
+  "block.backrooms_tape.directional_caution_tape": "Richtungs-Absperrband",
+  "block.backrooms_tape.glow_caution_tape": "Leuchtendes Absperrband",
+  "block.backrooms_tape.tripwire_caution_tape": "Alarm-Absperrband",
+  "advancements.backrooms_tape.fresh_coat.title": "Frischer Anstrich",
+  "advancements.backrooms_tape.fresh_coat.description": "Faerbe ein Stueck Absperrband um",
+  "advancements.backrooms_tape.follow_the_arrows.title": "Folge den Pfeilen",
+  "advancements.backrooms_tape.follow_the_arrows.description": "Platziere Richtungs-Absperrband",
+  "advancements.backrooms_tape.clean_sweep.title": "Sauber gewaschen",
+  "advancements.backrooms_tape.clean_sweep.description": "Entferne die Farbe mit einer Wasserflasche",
+  "advancements.backrooms_tape.light_the_way.title": "Wegweiser im Dunkeln",
+  "advancements.backrooms_tape.light_the_way.description": "Platziere leuchtendes Absperrband",
+  "advancements.backrooms_tape.caught_in_the_tape.title": "Im Band gefangen",
+  "advancements.backrooms_tape.caught_in_the_tape.description": "Loese Alarm-Absperrband aus",
+  "advancements.backrooms_tape.root.title": "Backrooms-Absperrband",
+  "advancements.backrooms_tape.root.description": "Markiere den Weg. Pass auf, wo du hintrittst.",
+  "itemGroup.backrooms_tape": "Backrooms Absperrband"
+}

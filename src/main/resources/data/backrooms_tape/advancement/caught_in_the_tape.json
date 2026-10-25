@@ -1,0 +1,15 @@
+{
+  "parent": "backrooms_tape:root",
+  "display": {
+    "icon": { "id": "backrooms_tape:tripwire_caution_tape" },
+    "title": { "translate": "advancements.backrooms_tape.caught_in_the_tape.title" },
+    "description": { "translate": "advancements.backrooms_tape.caught_in_the_tape.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "triggered_tripwire": { "trigger": "minecraft:impossible" }
+  }
+}
